@@ -1,2 +1,2 @@
 # OnlineBookStore
-Third year first semester ITP Project using ava  
+Third year first semester ITP Project using Java  
